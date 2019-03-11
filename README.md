@@ -1,5 +1,4 @@
-# makeradswordpressplugin
-MakerAds Wordpress Plugin
+# MakerAds Wordpress Plugin
 
 Plugin Name: MakerAds
 Plugin URI: https://makerads.xyz/
